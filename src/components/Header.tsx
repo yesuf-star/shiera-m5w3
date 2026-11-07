@@ -13,7 +13,7 @@ export default function Header() {
           </div>
 
           <span className="text-lg font-bold tracking-tight text-white sm:text-2xl">
-           Yusuf Product Store
+           Qemer Store
           </span>
         </Link>
 
